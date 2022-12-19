@@ -13,7 +13,7 @@ def calc_area_rectangle(x, y):
         TypeError: Type Error when length is inputted as a string
 
     Returns:
-        float: area of a rectangle
+        float: Area of a rectangle
     """
 
     if isinstance(x, str):
