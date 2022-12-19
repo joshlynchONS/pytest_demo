@@ -25,18 +25,19 @@ def calc_area_rectangle(x, y):
 
 
 def calc_volume_cube(x, y, z):
-    """calculates the area of a rectangle
+    """calculates the area of a cube
 
     Args:
-        x (float): width of a rectangle
-        y (float): length of a rectangle
+        x (float): width of a cube
+        y (float): length of a cube
+        z (float): depth of a cube
 
     Raises:
         TypeError: Type Error when width is inputted as a string
         TypeError: Type Error when length is inputted as a string
 
     Returns:
-        float: Area of a rectangle
+        float: Area of a cube
     """
 
     if isinstance(x, str):
