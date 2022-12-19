@@ -24,6 +24,31 @@ def calc_area_rectangle(x, y):
         return x * y
 
 
+def calc_volume_cube(x, y, z):
+    """calculates the area of a rectangle
+
+    Args:
+        x (float): width of a rectangle
+        y (float): length of a rectangle
+
+    Raises:
+        TypeError: Type Error when width is inputted as a string
+        TypeError: Type Error when length is inputted as a string
+
+    Returns:
+        float: Area of a rectangle
+    """
+
+    if isinstance(x, str):
+        raise TypeError("Only integers and floats allowed")
+    elif isinstance(y, str):
+        raise TypeError("Only integers and floats allowed")
+    elif isinstance(z, str):
+        raise TypeError("Only integers and floats allowed")
+    else:
+        return x * y * z
+
+
 def calc_area_circle(radius):
     """calculates the area of a circle
 
