@@ -30,7 +30,7 @@ def calc_volume_cube(x, y, z):
     Args:
         x (float): width of a cube
         y (float): length of a cube
-        z (float): depth of a cube
+        z (float): depth of a cubee
 
     Raises:
         TypeError: Type Error when width is inputted as a string
