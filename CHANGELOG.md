@@ -1,3 +1,12 @@
+# [0.4.0](https://github.com/joshlynchONS/pytest_demo/compare/v0.3.0...v0.4.0) (2022-12-21)
+
+
+### Features
+
+* new feat ([8c1945f](https://github.com/joshlynchONS/pytest_demo/commit/8c1945fdeabc1671c4bd3c3d5190ea55c5f3d2f1))
+
+
+
 # [0.3.0](https://github.com/joshlynchONS/pytest_demo/compare/v0.2.0...v0.3.0) (2022-12-21)
 
 
