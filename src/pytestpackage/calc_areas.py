@@ -37,7 +37,7 @@ def calc_volume_cube(x, y, z):
         TypeError: Type Error when length is inputted as a string
 
     Returns:
-        float: Area of a cubee
+        float: Area of a cube
     """
 
     if isinstance(x, str):
