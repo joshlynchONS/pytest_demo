@@ -1,14 +1,18 @@
+# [0.3.0](https://github.com/joshlynchONS/pytest_demo/compare/v0.2.0...v0.3.0) (2022-12-21)
+
+
+### Features
+
+* adding a pretend feature ([7d987f4](https://github.com/joshlynchONS/pytest_demo/commit/7d987f4ff027dd8c3ef868649d4cf607c77a85cc))
+
+
+
 # [0.2.0](https://github.com/joshlynchONS/pytest_demo/compare/v0.1.0...v0.2.0) (2022-12-19)
 
 
 ### Bug Fixes
 
 * update cube calc doc string ([3850463](https://github.com/joshlynchONS/pytest_demo/commit/38504637b9e510e16391dc2dbeb4fce094a1dcc8))
-
-
-### Security
-
-* Checking if this will stay here
 
 
 ### Features
@@ -28,3 +32,6 @@
 ### Features
 
 * added auto changelog feature ([5bfa341](https://github.com/joshlynchONS/pytest_demo/commit/5bfa34149e8d93ef0d8fa46c004c95ae77885276))
+
+
+
