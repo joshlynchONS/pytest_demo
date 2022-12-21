@@ -29,7 +29,7 @@ def calc_volume_cube(x, y, z):
 
     Args:
         x (float): width of a cube
-        y (float): length of a cubeee
+        y (float): length of a cube
         z (float): depth of a cube
 
     Raises:
