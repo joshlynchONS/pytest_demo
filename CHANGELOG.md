@@ -1,3 +1,12 @@
+## [0.4.1](https://github.com/joshlynchONS/pytest_demo/compare/v0.4.0...v0.4.1) (2022-12-28)
+
+
+### Bug Fixes
+
+* changelog bug fix ([810c31f](https://github.com/joshlynchONS/pytest_demo/commit/810c31f817251a08983f27ca24e80e293eb07292))
+
+
+
 # [0.4.0](https://github.com/joshlynchONS/pytest_demo/compare/v0.3.0...v0.4.0) (2022-12-21)
 
 
