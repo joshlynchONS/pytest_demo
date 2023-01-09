@@ -34,7 +34,7 @@ def calc_volume_cube(x, y, z):
 
     Raises:
         TypeError: Type Error when width is inputted as a string
-        TypeError: Type Error when length is inputted as a string
+        TypeError: Type Error when length is inputted as a stringss
 
     Returns:
         float: Area of a cube
