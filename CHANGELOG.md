@@ -1,3 +1,12 @@
+# [0.6.0](https://github.com/joshlynchONS/pytest_demo/compare/v0.5.2...v0.6.0) (2023-01-09)
+
+
+### Features
+
+* test feat ([fccf358](https://github.com/joshlynchONS/pytest_demo/commit/fccf358bfc8b8366ad7817921168ee406d201ca2))
+
+
+
 ## [0.5.2](https://github.com/joshlynchONS/pytest_demo/compare/v0.5.1...v0.5.2) (2023-01-09)
 
 
@@ -39,15 +48,6 @@
 ### Bug Fixes
 
 * add tokens from changelog workflow ([83cfa3a](https://github.com/joshlynchONS/pytest_demo/commit/83cfa3afd5dbbc36f48b664b85b1d34d64d615da))
-
-
-
-## [0.4.2](https://github.com/joshlynchONS/pytest_demo/compare/v0.4.1...v0.4.2) (2022-12-28)
-
-
-### Bug Fixes
-
-* remove tokens from changelog workflow ([676a7f1](https://github.com/joshlynchONS/pytest_demo/commit/676a7f1baaec96bad93c08c02ee40cb960546a75))
 
 
 
