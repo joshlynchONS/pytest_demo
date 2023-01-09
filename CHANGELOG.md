@@ -1,3 +1,12 @@
+## [0.5.1](https://github.com/joshlynchONS/pytest_demo/compare/v0.5.0...v0.5.1) (2023-01-06)
+
+
+### Bug Fixes
+
+* bug fix test ([afa7590](https://github.com/joshlynchONS/pytest_demo/commit/afa7590eb35c92cf7bb450e588ecdc300cf4d3d9))
+
+
+
 # [0.5.0](https://github.com/joshlynchONS/pytest_demo/compare/v0.4.3...v0.5.0) (2023-01-06)
 
 
@@ -39,15 +48,6 @@
 ### Bug Fixes
 
 * changelog bug fix ([810c31f](https://github.com/joshlynchONS/pytest_demo/commit/810c31f817251a08983f27ca24e80e293eb07292))
-
-
-
-# [0.4.0](https://github.com/joshlynchONS/pytest_demo/compare/v0.3.0...v0.4.0) (2022-12-21)
-
-
-### Features
-
-* new feat ([8c1945f](https://github.com/joshlynchONS/pytest_demo/commit/8c1945fdeabc1671c4bd3c3d5190ea55c5f3d2f1))
 
 
 
