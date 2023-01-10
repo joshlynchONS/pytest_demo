@@ -17,7 +17,7 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           version-file: "./package.json,./package-lock.json"
-          config-file-path: "./change-log.config.js"
+          # config-file-path: "./change-log.config.js"
 
       - name: create release
         uses: actions/create-release@v1
