@@ -1,7 +1,10 @@
 ##  (2023-01-10)
 
+* fix: update workflow ([d716409](https://github.com/joshlynchONS/pytest_demo/commit/d716409))
+* fix: update workflow ([a7783f5](https://github.com/joshlynchONS/pytest_demo/commit/a7783f5))
 * fix: update workflow ([049c289](https://github.com/joshlynchONS/pytest_demo/commit/049c289))
 * fix: update workflow ([0519464](https://github.com/joshlynchONS/pytest_demo/commit/0519464))
+* chore(release): vnull [skip ci] ([74d030a](https://github.com/joshlynchONS/pytest_demo/commit/74d030a))
 
 
 
