@@ -1,9 +1,8 @@
 'use strict'
-const config = require('conventional-changelog-conventionalcommits');
 
-module.exports = config({
+module.exports = {
     "types": [
         { type: 'add', section: 'New Features' },
         { type: 'fix', section: 'Bugs' }
     ]
-})
+}
