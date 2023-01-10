@@ -1,6 +1,11 @@
-module.exports = {
-    "types": [
-        { type: 'add', section: 'New Features' },
-        { type: 'fix', section: 'Bugs' }
-    ]
+{
+    "options": {
+        "preset": {
+            "name": "conventionalchangelog",
+            "types": [
+                { type: 'add', section: 'New Features' },
+                { type: 'fix', section: 'Bugs' }
+            ]
+        }
+    }
 }
