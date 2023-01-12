@@ -1,5 +1,19 @@
 # CHANGELOG
 
+## [v0.6.4](https://github.com/joshlynchONS/pytest_demo/releases/tag/v0.6.4) - 2023-01-12 10:19:29
+
+*No description*
+
+### Added
+
+- general:
+  - pull request title ([0e548bf](https://github.com/joshlynchONS/pytest_demo/commit/0e548bf08d533461960749c8f1cdfdafea5d0c11)) ([#5](https://github.com/joshlynchONS/pytest_demo/pull/5))
+
+### Fixed
+
+- general:
+  - final test ([46cdbd8](https://github.com/joshlynchONS/pytest_demo/commit/46cdbd8802e5546a1126ad4c7922a1e8d765fef9))
+
 ## [v0.6.3](https://github.com/joshlynchONS/pytest_demo/releases/tag/v0.6.3) - 2023-01-12 10:14:06
 
 *No description*
