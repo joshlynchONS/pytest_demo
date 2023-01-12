@@ -1,5 +1,14 @@
 # CHANGELOG
 
+## [v0.6.3](https://github.com/joshlynchONS/pytest_demo/releases/tag/v0.6.3) - 2023-01-12 10:14:06
+
+*No description*
+
+### Removed feature
+
+- general:
+  - removed test ([d829b4e](https://github.com/joshlynchONS/pytest_demo/commit/d829b4e3c6c4a601e01167842e3a8cccce4ba78f))
+
 ## [v0.6.2](https://github.com/joshlynchONS/pytest_demo/releases/tag/v0.6.2) - 2023-01-12 10:05:08
 
 *No description*
