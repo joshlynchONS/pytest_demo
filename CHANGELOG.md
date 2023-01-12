@@ -1,5 +1,28 @@
 # CHANGELOG
 
+## [v0.6.2](https://github.com/joshlynchONS/pytest_demo/releases/tag/v0.6.2) - 2023-01-12 10:05:08
+
+*No description*
+
+### Added
+
+- general:
+  - update workflow ([b1e4d8e](https://github.com/joshlynchONS/pytest_demo/commit/b1e4d8eea618a3202b02e265d71c9553cefd5511))
+  - update workflow ([e341a2d](https://github.com/joshlynchONS/pytest_demo/commit/e341a2def8472b8eb415a0d6ccce568c8ece9618))
+  - update workflow ([3fa4ad1](https://github.com/joshlynchONS/pytest_demo/commit/3fa4ad19c907968533c06d17cc1f8bb60cddd962))
+  - update workflow ([9e6eb79](https://github.com/joshlynchONS/pytest_demo/commit/9e6eb79bf4f9ba06f14a9d1aea2d6c209f9ffb51))
+
+### Fixed
+
+- general:
+  - updated code ([a3232d4](https://github.com/joshlynchONS/pytest_demo/commit/a3232d47e9e7c27cde173c0921f33443479921f3))
+  - update workflow ([13cceac](https://github.com/joshlynchONS/pytest_demo/commit/13cceac4b56511a8284e23633a989fb3975eae54))
+
+### Security
+
+- general:
+  - updated security change ([5a6d590](https://github.com/joshlynchONS/pytest_demo/commit/5a6d59010487aefc2f6e510df403359c0736fa2d))
+
 ## [v0.6.1](https://github.com/joshlynchONS/pytest_demo/releases/tag/v0.6.1) - 2023-01-10 13:39:33
 
 ### Bug Fixes
