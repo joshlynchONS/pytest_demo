@@ -1,30 +1,19 @@
-name: changelog_workflow
+name: Generate changelog
 on:
-  push:
-    branches:
-      - main
+  release:
+    types: [created, edited]
 
 jobs:
-  changelog:
+  generate-changelog:
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@v3
-
-      - name: conventional Changelog Action
-        id: changelog
-        uses: TriPSs/conventional-changelog-action@v3
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          version-file: "./package.json,./package-lock.json"
-          preset: 'rap'
-
-      - name: create release
-        uses: actions/create-release@v1
-        if: ${{ steps.changelog.outputs.skipped == 'false' }}
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          tag_name: ${{ steps.changelog.outputs.tag }}
-          release_name: ${{ steps.changelog.outputs.tag }}
-          body: ${{ steps.changelog.outputs.clean_changelog }}
+    - uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+    - uses: BobAnkh/auto-generate-changelog@v1
+      with:
+        REPO_NAME: ''
+        ACCESS_TOKEN: ${{secrets.GITHUB_TOKEN}}
+        PATH: 'CHANGELOG.md'
+        COMMIT_MESSAGE: 'docs(CHANGELOG): update release notes'
+        TYPE: 'add:Added,fix:Fixed,depreciated:Depreciated,security:Security,Removed:Removed feature,change:Changed,docs:Documentation'
