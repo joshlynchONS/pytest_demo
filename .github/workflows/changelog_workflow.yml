@@ -17,4 +17,4 @@ jobs:
         ACCESS_TOKEN: ${{secrets.GITHUB_TOKEN}}
         PATH: 'CHANGELOG.md'
         COMMIT_MESSAGE: 'docs(CHANGELOG): update release notes'
-        TYPE: 'add:Added,fix:Fixed,depreciated:Depreciated,security:Security,Removed:Removed feature,change:Changed,docs:Documentation'
+        TYPE: 'add:Added,fix:Fixed,depreciated:Depreciated,security:Security,removed:Removed feature,change:Changed,docs:Documentation'
