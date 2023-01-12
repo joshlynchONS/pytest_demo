@@ -9,7 +9,7 @@ def calc_area_rectangle(x, y):
         y (float): length of a rectangle
 
     Raises:
-        TypeError: Type Error when width is inputted as a string
+        TypeError: Type Error when width is inputted as a strings
         TypeError: Type Error when length is inputted as a string
 
     Returns:
