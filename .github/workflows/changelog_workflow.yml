@@ -1,8 +1,7 @@
 name: changelog_workflow
 on:
-  push:
-    branches:
-      - main
+  release:
+    types: [created, edited]
 
 jobs:
   generate-changelog:
