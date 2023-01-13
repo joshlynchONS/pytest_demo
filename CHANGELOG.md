@@ -1,5 +1,21 @@
 # CHANGELOG
 
+## [v0.6.5](https://github.com/joshlynchONS/pytest_demo/releases/tag/v0.6.5) - 2023-01-13 17:18:58
+
+*No description*
+
+### Added
+
+- general:
+  - add workflow ([8db9f5c](https://github.com/joshlynchONS/pytest_demo/commit/8db9f5c0354e34d618041918ae16bae79be7a125))
+
+### Fixed
+
+- general:
+  - update workflow ([072edc0](https://github.com/joshlynchONS/pytest_demo/commit/072edc0de2205ed0177147942b4020cf6478ab30))
+  - merge error ([077ad7c](https://github.com/joshlynchONS/pytest_demo/commit/077ad7c0747d172a938bc93e5cae8f6b3693e33b))
+  - push to release changelog ([0b632e6](https://github.com/joshlynchONS/pytest_demo/commit/0b632e6081b641381ae611e287dfdf30b8d36c9d))
+
 ## [v0.6.4](https://github.com/joshlynchONS/pytest_demo/releases/tag/v0.6.4) - 2023-01-12 10:19:29
 
 *No description*
