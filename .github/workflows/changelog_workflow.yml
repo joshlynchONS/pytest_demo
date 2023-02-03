@@ -10,8 +10,9 @@ jobs:
     - uses: actions/checkout@v2
       with:
         fetch-depth: 0
-    - uses: joshlynchONS/auto-generate-changelog@master
+    - uses: joshlynchONS/gov-changelog-action@main
       with:
         REPO_NAME: ''
-        ACCESS_TOKEN: ${{secrets.GITHUB_TOKEN}}
+        ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         PATH: 'CHANGELOG.md'
+        UNRELEASED_COMMITS: 'true'
