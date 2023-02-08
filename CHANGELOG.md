@@ -2,9 +2,39 @@
 
 # Changelog
 
+## 0.6.11 2023-02-08
+
+### Added
+
+
+* update release notes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 0.6.10 2023-02-08
 
 ### Added
+
 
 
 * update release notes
@@ -33,6 +63,7 @@
 ## v0.6.9 2023-02-03
 
 ### Fixed
+
 
 
 
@@ -65,6 +96,7 @@
 
 
 
+
 * Merge branch 'main' of https://github.com/joshlynchONS/pytest_demo
 
 
@@ -89,6 +121,7 @@
 ## v0.6.7 2023-01-18
 
 ### Other
+
 
 
 
@@ -126,6 +159,7 @@
 
 
 
+
 * update workflow
 
 
@@ -147,6 +181,7 @@
 ## v0.6.4 2023-01-12
 
 ### Added
+
 
 
 
@@ -184,6 +219,7 @@
 
 
 
+
 * Tester (#4)
 
 
@@ -203,6 +239,7 @@
 ## v0.6.2 2023-01-12
 
 ### Removed
+
 
 
 
