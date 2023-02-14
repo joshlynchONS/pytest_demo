@@ -2,6 +2,7 @@ name: Create_new_tag
 on:
   release:
     types: [created, edited]
+  workflow_dispatch:
 
 jobs:
   generate-changelog:
@@ -15,4 +16,4 @@ jobs:
         ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         PATH: 'CHANGELOG.md'
         UNRELEASED_COMMITS: 'true'
-        UPDATE_CHANGELOG: 'true'
+        CREATE_TAG: 'true'
