@@ -4,7 +4,7 @@ on:
     types: [created, edited]
 
 jobs:
-  generate-tags:
+  generate-changelog:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
@@ -13,4 +13,6 @@ jobs:
     - uses: joshlynchONS/gov-changelog-action@update_release
       with:
         ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        CREATE_TAG: 'true'
+        PATH: 'CHANGELOG.md'
+        UNRELEASED_COMMITS: 'true'
+        UPDATE_CHANGELOG: 'true'
