@@ -1,6 +1,5 @@
-name: Create new tag
+name: Create_new_tag
 on:
-  workflow_dispatch:
   release:
     types: [created, edited]
 
