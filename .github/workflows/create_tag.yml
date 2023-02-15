@@ -16,4 +16,3 @@ jobs:
         PATH: 'CHANGELOG.md'
         UNRELEASED_COMMITS: 'true'
         UPDATE_CHANGELOG: 'true'
-        CREATE_TAG: 'true'
