@@ -14,7 +14,4 @@ jobs:
     - uses: joshlynchONS/gov-changelog-action@update_release
       with:
         ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        PATH: 'CHANGELOG.md'
-        UNRELEASED_COMMITS: 'true'
-        UPDATE_CHANGELOG: 'true'
         CREATE_TAG: 'true'
