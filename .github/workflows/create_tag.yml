@@ -16,4 +16,4 @@ jobs:
         ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         PATH: 'CHANGELOG.md'
         UNRELEASED_COMMITS: 'true'
-        CREATE_TAG: 'true'
+        UPDATE_CHANGELOG: 'true'
