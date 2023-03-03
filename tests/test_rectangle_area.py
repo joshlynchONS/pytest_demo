@@ -2,7 +2,7 @@ from pytestpackage.calc_areas import calc_area_rectangle
 import pytest
 
 
-class TestRectangle:
+class TestRectanglea:
     def test_rect_area(self):
         assert calc_area_rectangle(2, 3) == 6
 
